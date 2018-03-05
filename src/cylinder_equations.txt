@@ -16,7 +16,7 @@ substitute in d = t * dir + o - c ;
 a t^2 + b t + c  = 0
 
 a = dot(dir, dir) - dot(ax, dir)^2
-b = 2 * dot(dir, o - c)
+b = 2 * dot(dir, o - c) - 2 dot(ax, dir) dot(ax, o - c)
 c = dot(o - c, o - c) - dot(ax, o - c)^2 - r^2
 
 Equivalently: project out the axis component and perform a ray-circle test (or
