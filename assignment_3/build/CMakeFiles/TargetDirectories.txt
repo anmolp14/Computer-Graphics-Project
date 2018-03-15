@@ -1,0 +1,3 @@
+/home/aromani/myfiles/assignment_3/build/src/CMakeFiles/debug_aabb.dir
+/home/aromani/myfiles/assignment_3/build/CMakeFiles/doc.dir
+/home/aromani/myfiles/assignment_3/build/src/CMakeFiles/raytrace.dir
